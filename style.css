@@ -1,30 +1,31 @@
 body {
-  font-family: Arial, sans-serif;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
   margin: 0;
-  background-color: #f4f4f4;
-  color: #333;
+  background-color: #1E1E1E;
+  color: white;
 }
 
 header {
-  background-color: #222;
+  background-color: #1E1E1E;
   color: white;
-  padding: 40px 20px;
+  padding: 4px 10px;
   text-align: center;
 }
 
 section {
-  background: white;
-  margin: 20px;
+  background: #121212;
+  margin: 10px;
   padding: 20px;
   border-radius: 8px;
 }
 
 h2 {
-  color: #444;
+  color: white;
 }
 
 footer {
   text-align: center;
-  padding: 20px;
+  padding: 40px;
   color: #777;
 }
